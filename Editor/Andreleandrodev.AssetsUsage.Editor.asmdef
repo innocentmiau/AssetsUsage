@@ -1,0 +1,8 @@
+{
+    "name": "Andreleandrodev.AssetsUsage.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

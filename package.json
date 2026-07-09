@@ -1,0 +1,28 @@
+{
+	"name": "com.andreleandrodev.assetsusage",
+	"displayName": "Assets Usage",
+	"version": "1.0.0",
+	"unity": "6000.3",
+	"description": "Editor-only tool that scans your project and reports how many times each asset is referenced, surfacing unused assets at the top.\n\n▪ Reference-counts assets by GUID across scenes, prefabs, materials and .meta files\n▪ Folder and asset-type filters, sort by least or most used\n▪ CSV export\n▪ Scans on background threads to keep the editor responsive\n\nOpen via Tools > Assets Usage.",
+	"author": {
+		"name": "Andre Leandro",
+		"email": "andreleandro.dev@gmail.com",
+		"url": "https://github.com/innocentmiau"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/innocentmiau/AssetsUsage.git"
+	},
+	"license": "MIT",
+	"keywords": [
+		"editor",
+		"assets",
+		"usage",
+		"references",
+		"cleanup",
+		"unused"
+	],
+	"documentationUrl": "https://github.com/innocentmiau/AssetsUsage#readme",
+	"changelogUrl": "https://github.com/innocentmiau/AssetsUsage/blob/main/CHANGELOG.md",
+	"licensesUrl": "https://github.com/innocentmiau/AssetsUsage/blob/main/LICENSE.md"
+}
